@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-class Rectangle:
-    """
-    This class does nothing
+"""Defines a rectangle class"""
 
-    """
+
+class Rectangle:
+    """This class does nothing"""
     pass
